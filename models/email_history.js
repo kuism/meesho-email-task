@@ -40,7 +40,7 @@ const createEmailHistoryAndSendMail = async (itemId, itemType, attachment) => {
       const sendingType = attachment ? sendEmailTypes[0] : sendEmailTypes[1];
 
       if (history) {
-          DB.emailHistories.update({_id: history._id}, {$addToSet: {send_email_types: [sendingType]}});
+          await DB.emailHistories.update({_id: history._id}, {$addToSet: {send_email_types: sendingType}});
       } else {
           history = {
               item_id: itemId,

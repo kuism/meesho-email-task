@@ -8,7 +8,7 @@ exports.FIREBASE_ADMIN = firebaseAdmin.initializeApp({
     databaseURL:"https://meesho-task-queue.firebaseio.com/"
 });
 
-exports.FB_QUEUE_PATH = process.env.FB_QUEUE_PATH || "invoice-service";
+exports.FB_QUEUE_PATH = process.env.FB_QUEUE_PATH || "email-service";
 
 exports.MicroServices = {
     invoiceService: "http://127.0.0.1:3001/",

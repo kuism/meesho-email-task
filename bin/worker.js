@@ -15,11 +15,8 @@ const queue = new Queue(refQueue, function (data, progress, resolve, reject) {
 
     switch (data.channel){
         case "create-order": {
-            try {
-                EmailHistory.processEmailForItem(data.item_id, data.item_type, null)
-            } catch (err){
-
-            }
+            EmailHistory.processEmailForItem(data.order_id, "order", null).catch((err) => {
+            });
             break;
         }
         default:

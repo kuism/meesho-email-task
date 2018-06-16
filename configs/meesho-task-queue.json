@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "meesho-task-queue",
+  "private_key_id": "b17cc33f45c4fee76dd307948f6bf6a0505ed4b9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCl1dpr+Gd6Ch8G\no3SvCek7zzmX7bGmR3+LNcwdSgKKW3jG1tSLUgEk7r7OjJJ21z+MBj49+PQ00tXl\noaWn+1yjFsrDK2T1OCk58IObZPEq6ba9/lssnN6uggwJPKFEHWZU5l4i4AI2u17c\nbsKbCuRYcNFMokEKCnb53mR25V6hIx5IQi8CThnap461e30IYhEBaBhbB+zCCvBk\nCvFo5XpRg5eY5EcvA5CLN/vDtms6Tiw2gSUH9ydKnIgRkuV9ezHlKCchPf89zxQF\nhxSGvMXKAX/r4DeitycotBvUe4Yb8/h8rl3wxjZNBoJz+VdsnpAwkhIj0IMNftDj\n0j6KyAqfAgMBAAECggEAEN7HgJJdnHmpHFjGhwQAGRiEqGMC3oKJhBTt9dDQn1ic\n2cWDC8VE3of3GzYLtFFDYrBD5rQLy8/i+KBQJN2aV/D6oY4pkBSthPpluQo0yoPK\nFlvo1IoE0UXjiZEEatR+04Y3715Qe1bmWJBf9bvO7PxVHnGnIilcXyDzoXDGBqhM\n79Oxgtf3s9ZD77DzJ6kVPb53+qopbWZpoMzqOd1cv0EYG8f7qIyNdqxq/LfTQfdt\nIpjOODKA61LOnhY59qGue2q7LPbgUan0N1pKyaGNPBVqum4W7055P000Shkl3Zil\nglZl+2NpncqxeyMCsgTtVqn4hoTs84Hda7zSUqL9KQKBgQDaK2ESeF/6ztWVwtQW\nsyw0tO6s+59uoWidDxuA6x1JUrrEngwQA2IGycCommjNpI7DM5iHRmGFP633efB3\nomuk2sQozVI/NYFEK+5tG1srfwJ22F2XQDuSw0ety9TVvl7cutfzqjs1KpZ69UWm\nMeiu1xpvqOOohAu1XfrFV4o5bQKBgQDCl1hTFPODse549/7gYH2D3+VKTovG6J4P\n71n+OiPwdno1l0Zc2170kgyNhW1o/NH9sBYWLCZZ0pLzAruT87nXkUZdpL8yjZyS\nK7+pOiRTFBmw4bcGn6Kb+CASXa+jFvLfW4xyuzg3zjf++iIENNmdejWBhAvwI27Z\nHAHc01l4uwKBgGPx8XNrr9SPQmtsKIsJo9u1c43Na9lbmjgxPpFNpEn920/Nc4s2\ncYbYkCjtK8vhcgFctqhqBqzrYj/4HcBAqP2JtslWXjJUyZY4Ze6X1KlVcwSM1DtB\nEsmGKmUk9qjAoGaQNfQLbTpK+0ry5+hd/tFx+0th3IFLlK2Okx4qn0j1AoGBALQI\nhkVHywz7IGF3QK6jVz0dduxKw3OiYCrqDd7yN7IQS30tmoHqzG2GemqtGc7aqgYG\nVkjpTAoqkp6W1qlKA5T36ZxWAjdpYYSzST3udxEONb669jUAmNeotzOGzisb3lTc\nRJMZuCeZeaFEFxjBNN1H5h0P6GOixLnF+csvF0ZlAoGBANAdGIicE9FpUD7ZQo0y\nFgm3dYm+im4ZjnpZunHRb3nq6tZB2QPo15exOF1Qpi8b6IE9sWXHETLrNwi9IXfW\nuOD8WVtDYMesAbimTNPBpT1gRay0d5nMCd+00AmC4mWfwZAoPomUjG6XRREa/LPg\nbzQcYQOPSA3gAqlz4M5lxBms\n-----END PRIVATE KEY-----\n",
+  "client_email": "meesho-task-backend@meesho-task-queue.iam.gserviceaccount.com",
+  "client_id": "107070741197484873169",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/meesho-task-backend%40meesho-task-queue.iam.gserviceaccount.com"
+}

@@ -11,7 +11,6 @@ var refQueue = config.FIREBASE_ADMIN.database().ref(config.FB_QUEUE_PATH);
 console.log("worker started");
 
 const queue = new Queue(refQueue, function (data, progress, resolve, reject) {
-    console.log(data);
 
     switch (data.channel){
         case "create-order": {

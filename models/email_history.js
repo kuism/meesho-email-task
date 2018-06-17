@@ -69,6 +69,7 @@ const getFormattedDataForEmail = (itemId, itemType, attachment) => {
     }
 };
 
+// it will return the email history of an item
 const getEmailHistoryForAnItem = async (itemId, itemType) => {
     const history = await DB.emailHistories.findOne({item_id: itemId, item_type: itemType}).lean();
     if (history) {
